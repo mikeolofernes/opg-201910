@@ -9,7 +9,7 @@ Here at Flexisource, we are usually assigned by client a couple of data processi
 To test your knowledge in .NET development, presented here is a new mvc dotnet core application. You are assigned to complete the solution based on the following specifications:
 
 1. The XML files in each client should be enumerated as JSON data based on the configured client settings in app settings file. 
-Each client has its own preferred file format and ordering of file processing.<br><br>
+Each client has its own preferred file format and ordering of files.<br><br>
 **Client A** requires the processing of the file based on the ff order: **shovel, waghor, blaze, discus**.<br>
-**Client B** requires the processing of the file based on the ff order: **orca, widget, eclair, talon**.
-
+**Client B** requires the processing of the file based on the ff order: **orca, widget, eclair, talon**.<br><br>
+It is also important that the files to be enumerated are only the files based on the client's preferred format, the file name format are the what the majority of the file names on the cleint's respective file folders.
