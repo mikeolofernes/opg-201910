@@ -2,8 +2,6 @@
 
 Dear candidate,
 
-Thank you for having interest to be part of our team!.
-
 Here at Flexisource, we are usually assigned by client a couple of data processing tasks from multiple sources such as database including data from files like XML.
 
 To test your knowledge in .NET development, presented here is a new mvc dotnet core application. You are assigned to complete the solution based on the following specifications:
