@@ -10,7 +10,7 @@ To test your knowledge in C#.NET development, presented here is a new mvc dotnet
 Each client has its own preferred file format and ordering of files.<br><br>
 **Client A** requires enumerating the file based on the ff order: **shovel, waghor, blaze, discus**.<br>
 **Client B** requires enumerating the file based on the ff order: **orca, widget, eclair, talon**.<br><br>
-When the files contains the same name, the file should be ordered based on date, first in first out basis.<br>
+When the files contains the same name, the file should be ordered based on date, first in first out basis.<br><br>
 It is also important that the files to be enumerated are only the files based on the client's preferred format, the file name format are what the majority of the files on the client's respective file folders are.
 
 2. To test your knowledge in objected oriented programming, we require the the core functionality of the solution be confirmed and verified through unit tests.<br><br>
